@@ -2,6 +2,7 @@
 
 
 1. Create a namespace for your Confluent Platform cluster
+
   ```
   YOUR_NAMESPACE=20210709-test
 
