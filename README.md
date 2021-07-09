@@ -2,11 +2,11 @@
 
 
 1. Create a namespace for your Confluent Platform cluster
-```
-YOUR_NAMESPACE=20210709-test
+  ```
+  YOUR_NAMESPACE=20210709-test
 
-kubectl create namespace ${YOUR_NAMESPACE}
-```
+  kubectl create namespace ${YOUR_NAMESPACE}
+  ```
 
 
 2. Switch to your newly created namespace
